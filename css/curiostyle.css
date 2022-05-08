@@ -1,0 +1,323 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@400;700&family=Cantarell:ital,wght@0,400;1,700&family=Cardo:wght@400;700&family=Finger+Paint&display=swap');
+
+body {
+  color: white;
+}
+
+#page1 {
+  background: #A0949E url("../Images/pattern4.png") no-repeat right top;
+  background-size: cover;
+  font-family: 'Cantarell', sans-serif;
+}
+
+#pageFH {
+  background: #585757 url("../Images/patternfh.png") no-repeat right top;
+  background-size: cover;
+  font-family: 'Bitter', serif;
+}
+
+#pageH {
+  background: #556D84 url("../Images/patternh2.png") no-repeat right top;
+  background-size: cover;
+  font-family: 'Cantarell', sans-serif;
+}
+
+/* div {
+  border: 1px solid red;
+} */
+
+nav {
+  background: #A0949E;
+  box-shadow: -1px -13px 24px 18px rgba(71,79,98,0.48);
+}
+
+nav-f {
+  background: #A0949E;
+}
+
+div-purple {
+    background: #A0949E
+  }
+
+div-blue {
+  background: #2E5B66;
+  box-shadow: 0px 4px 15px 13px rgba(71,79,98,0.54);
+}
+
+div-bluef {
+  background: #2E5B66;
+}
+
+div-grey {
+  background: #585757;
+}
+
+div-purple {
+  background: #A0949E;
+}
+
+div-black {
+  background: black;
+}
+
+div-b {
+  background: #474F62;
+}
+
+div-b2 {
+  background: black;
+}
+
+div-price {
+  background: white;
+  font-family: 'Bitter', serif;
+  color: black;
+}
+
+div-priceh {
+  background: white;
+  font-family: 'Cantarell', sans-serif;
+  color: #474F62;
+}
+
+div-agents {
+  background: #585757;
+}
+
+div-how {
+  background: black;
+}
+
+div-diffh {
+  background: #474F62;
+  text-align: center;
+}
+
+div-btn {
+  background: #A0949E;
+}
+
+div-hp {
+  background: #474F62;
+}
+
+button-a {
+  background: #474F62 !important;
+  color: white !important;
+  font-family: 'Cantarell', sans-serif !important;
+}
+
+footer {
+  font-family: 'Cantarell', sans-serif
+}
+
+form {
+  font-family: 'Cardo', serif;
+}
+
+div-buy {
+  text-align: center;
+}
+
+div-darkb {
+  background: #474F62;
+}
+
+div-lightb {
+  background: #556D84;
+}
+
+.paint {
+  font-family: 'Finger Paint', cursive;
+  font-size: 20px;
+}
+
+.paintbig {
+  font-size: 30px;
+  font-family: 'Finger Paint', cursive;
+}
+
+.size {
+  font-size: 20px;
+}
+
+.justify {
+  text-align: justify;
+  font-size: 20px;
+}
+
+.center {
+  text-align: center;
+}
+
+.big {
+  font-size: 30px;
+}
+
+.sky {
+  color: #ABE8E9;
+  font-size: 25px;
+}
+
+.navbar-brand {
+  color: white !important;
+}
+
+.wrapper {
+  position: relative;
+  left: 50%;
+  right: 50%;
+}
+
+.overlay {
+  background: #A0949E;
+  position: absolute;
+  left: 5%;
+  right: 5%;
+  bottom: 5%;
+}
+
+.banwrap {
+  position: relative;
+}
+
+.banover2 {
+  position: absolute;
+  left: 5%;
+  right: 50%;
+  bottom: 30%;
+  font-size: 150px;
+  font-family: 'Finger Paint', cursive;
+}
+
+.banwrap2 {
+  position: relative;
+}
+
+.banover {
+  position: absolute;
+  left: 20%;
+  right: 20%;
+  bottom: 30%;
+  text-align: center;
+  font-size: 100px;
+}
+
+.How {
+  font-family: 'Cardo', serif;
+}
+
+.btn {
+  background: #ABE8E9;
+  color: #474F62;
+  font-weight: bold;
+  border-color: #ABE8E9;
+  text-align: center;
+  font-family: 'Cardo', serif;
+}
+
+
+.card-body {
+  background: #A0949E;
+}
+
+.Head{
+  font-family: 'Cardo', serif;
+  color: white;
+}
+
+.Foot {
+color: white;
+margin-top: 40%;
+}
+
+.Foots {
+  color: white;
+  margin-top: 10%;
+}
+
+.PN {
+  color: #474F62;
+}
+
+.SubH {
+  font-family: 'Cantarell', sans-serif;
+  color: white;
+  text-align: center;
+}
+
+.Diff {
+  background: black;
+  text-align: center;
+}
+
+.DiffH {
+  font-family: 'Cantarell', sans-serif;
+}
+
+.buttonH {
+  font-family: 'Cardo', serif;
+}
+
+.buttonFH {
+  background: black;
+}
+
+.carousel-caption {
+  background: #474F62;
+  font-family: 'Cantarell', sans-serif;
+}
+
+.fence1 {
+  font-size: 30px;
+  text-align: justify;
+  font-family: 'Cardo', serif;
+}
+
+.fence2 {
+  font-size: 30px;
+  color: #ABE8E9;
+  text-align: justify;
+}
+
+/* .carousel {
+  background: red;
+} */
+
+h5 {
+  font-family: 'Cardo', serif; font-weight: bold;
+  color: white;
+}
+
+h2, h3 {
+    font-family: 'Cardo', serif; font-weight: bold;
+    text-align: center;
+}
+
+h4 {
+    text-align: left;
+    font-family: 'Cardo', serif;
+
+}
+
+
+/* unvisited link */
+a:link {
+  color: #ABE8E9;
+}
+
+/* visited link */
+a:visited {
+  color: #ABE8E9;
+}
+
+/* mouse over link */
+a:hover {
+  color: #ABE8E9;
+}
+
+/* selected link */
+a:active {
+  color: #474F62;
+}

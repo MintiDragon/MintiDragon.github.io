@@ -1,0 +1,31 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@400;700&family=Cantarell:ital,wght@0,400;1,700&family=Cardo:wght@400;700&family=Finger+Paint&display=swap');
+
+body {
+
+  font-family: 'Finger Paint', cursive;
+}
+
+#page1 {
+  background: pink url("../Images/R6 TP.jpg") no-repeat right top;
+  background-size: cover;
+}
+
+h1, h3 {
+  font-family: 'Cardo', serif;
+  color: purple;
+}
+
+p {
+  color: skyblue;
+}
+
+.diff {
+  color: purple;
+  margin: 100px;
+}
+
+.difff {
+  color: blue;
+  padding: 100px;
+}
